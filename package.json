@@ -1,0 +1,25 @@
+{
+  "name": "acc-cit-110",
+  "displayName": "ACC CIT-110 Extension Pack",
+  "description": "Externtionns for CIT-110 course",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "hediet.vscode-drawio",
+    "sidthesloth.html5-boilerplate",
+    "geyao.html-snippets",
+    "yuichinukiyama.vscode-preview-server",
+    "donjayamanne.python-extension-pack",
+    "tomoki1207.pdf"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/BlainJonesACC/CTI-110-Extension_Pack"
+  }
+
+}
