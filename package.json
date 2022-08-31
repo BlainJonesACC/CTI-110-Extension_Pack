@@ -3,6 +3,7 @@
   "displayName": "ACC CIT-110 Extension Pack",
   "description": "Externtionns for CIT-110 course",
   "version": "0.0.1",
+  "publisher": "BlainsWorld",
   "engines": {
     "vscode": "^1.70.0"
   },
