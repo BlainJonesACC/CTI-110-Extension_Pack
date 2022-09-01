@@ -2,7 +2,7 @@
   "name": "ACC-CTI-110",
   "displayName": "ACC CTI-110 Extension Pack",
   "description": "Externtionns for CIT-110 course",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "icon": "icon.png",
   "publisher": "BlainsWorld",
   "engines": {
@@ -17,7 +17,8 @@
     "geyao.html-snippets",
     "yuichinukiyama.vscode-preview-server",
     "donjayamanne.python-extension-pack",
-    "tomoki1207.pdf"
+    "tomoki1207.pdf",
+    "apility.beautify-blade"
   ],
   "repository": {
   "type": "git",
