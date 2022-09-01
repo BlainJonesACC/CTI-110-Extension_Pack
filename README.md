@@ -2,7 +2,7 @@
 
 VS Code Extensions recommended in the CTI-110 course.
 
-## Extentions Included
+## Extensions Included
 
 - Web
     - [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName%3Dsidthesloth.html5-boilerplate)
@@ -14,4 +14,5 @@ VS Code Extensions recommended in the CTI-110 course.
     - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName%3Dhediet.vscode-drawio)
 -  Miscellaneous 
     - [Beautify Blade](https://marketplace.visualstudio.com/items?itemName%3Dapility.beautify-blade)
+    - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName%3Dstreetsidesoftware.code-spell-checker)
     - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName%3Dtomoki1207.pdf)
