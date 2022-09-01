@@ -20,7 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Did something
 
 ## [0.0.4]
-- Did something
+- Added icon image
 
 ## [0.0.3]
 - Did something
