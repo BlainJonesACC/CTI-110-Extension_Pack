@@ -2,7 +2,8 @@
   "name": "ACC-CTI-110",
   "displayName": "ACC CTI-110 Extension Pack",
   "description": "Externtionns for CIT-110 course",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "icon": "icon.png",
   "publisher": "BlainsWorld",
   "engines": {
     "vscode": "^1.70.0"
