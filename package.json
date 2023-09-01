@@ -2,11 +2,11 @@
   "name": "ACC-CTI-110",
   "displayName": "ACC CTI-110 Extension Pack",
   "description": "Extensions used in the CIT-110 course at Alamance Community College",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "icon": "icon.png",
   "publisher": "BlainsWorld",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.81.0"
   },
   "categories": [
     "Extension Packs"

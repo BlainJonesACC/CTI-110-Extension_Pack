@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.9] - 2022-07-15
+### Fixed
+- Issue preventing extensions from loading
+
 ## [0.0.8]
 ### Fixed
 - Fix typos in recent README changes.
